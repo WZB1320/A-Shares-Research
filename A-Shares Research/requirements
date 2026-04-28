@@ -1,0 +1,13 @@
+# 核心数据处理
+pandas>=2.0.0
+numpy>=1.24.0
+
+# A股数据接口
+akshare>=1.0.0
+tushare>=1.2.89
+
+# 可视化
+matplotlib>=3.7.0
+
+# 配置文件读取
+pyyaml>=6.0
