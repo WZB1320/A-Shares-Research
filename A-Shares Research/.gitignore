@@ -1,0 +1,26 @@
+# Python 通用忽略
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# A股项目专属忽略
+config.yaml
+data/
+*.csv
+*.xlsx
+*.parquet
+*.db
+
+# 系统/IDE忽略
+.vscode/
+.idea/
+.DS_Store
+*.log
